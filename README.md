@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Naveendran K 👋 
-### Software Engineer | Java Backend & Distributed Systems Specialist 🚀
+### Software Developer 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveendran-k-206326397/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Naveendran003/)
@@ -91,4 +91,4 @@
   <a href="https://leetcode.com/u/Naveendran003/"><img src="https://img.shields.io/badge/LeetCode-Naveendran003-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
 </p>
 
-<p align="center"><i>⭐️ From Naveendran K — Open to Software Engineering & Java Backend opportunities!</i></p>
+<p align="center"><i>⭐️ From Naveendran K — Open to Software Developer opportunities!</i></p>
