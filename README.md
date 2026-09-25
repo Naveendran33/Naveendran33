@@ -8,20 +8,20 @@
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/naveendran-k-206326397/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Naveendran003/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>&nbsp;&nbsp;
   <a href="mailto:naveenkannusamy29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Naveendran33">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Naveendran33&label=PROFILE+VIEWS&color=58a6ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Naveendran33&label=PROFILE+VIEWS&color=58a6ff&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -40,7 +40,7 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,actions,maven,postman,linux,cpp,idea,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,actions,maven,postman,linux,cpp,idea,vscode&theme=dark" alt="Skill Icons" />
 </p>
 
 <table align="center" width="100%">
@@ -137,19 +137,25 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Naveendran33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+        <a href="https://github.com/Naveendran33">
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=Naveendran33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="410" />
+        </a>
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Naveendran33&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+        <a href="https://github.com/Naveendran33">
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Naveendran33&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="350" />
+        </a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <img src="https://streak-stats.demolab.com/?user=Naveendran33&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <a href="https://github.com/Naveendran33">
+          <img src="https://streak-stats.demolab.com/?user=Naveendran33&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="410" />
+        </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://leetcode.com/u/Naveendran003/" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/Naveendran003?theme=dark&font=Inter" alt="LeetCode Stats" />
+          <img src="https://leetcard.jacoblin.cool/Naveendran003?theme=dark&font=Inter" alt="LeetCode Stats" width="370" />
         </a>
       </td>
     </tr>
